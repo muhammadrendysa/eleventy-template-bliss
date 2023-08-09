@@ -53,14 +53,6 @@ module.exports = {
     // super happy if you keep it intact :)
     // And if you decide to remove it after all, be sure to edit
     // content/_includes/footer.njk as well
-    template: {
-      name: 'Bliss',
-      url: 'https://github.com/lwojcik/eleventy-template-bliss',
-      credit: {
-        name: 'Offbeat Bits',
-        url: 'https://offbeatbits.com',
-      },
-    },
   },
   // ---------------------------------------------------------------------------
   // Information about YOU, the site author
@@ -71,7 +63,7 @@ module.exports = {
     name: 'Muhammad Rendy Sa',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: 'https://eleventy-bliss.vercel.app/',
+    url: 'https://analytics-sphere.netlify.app/',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
