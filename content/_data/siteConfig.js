@@ -9,7 +9,7 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'Bliss',
+    title: 'Analytics Spere',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
@@ -68,7 +68,7 @@ module.exports = {
   author: {
     // Your name. Self-explanatory I guess?
     // And you can use it anywhere on the site as {{ siteConfig.author.name }}
-    name: 'John Doe',
+    name: 'Muhammad Rendy Sa',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
     url: 'https://eleventy-bliss.vercel.app/',
@@ -258,7 +258,7 @@ module.exports = {
     // Path to Twtxt file, used as permalink in the template
     path: '/twtxt.txt',
     // Path to your Twtxt avatar
-    avatar: '/images/twtxt-avatar.png',
+    avatar: '/images/avatar-512x512.png',
     // Separator used in Twtxt post contents between a title and a link
     separator: ' - ',
     // How many posts should be displayed in Twtxt file?
