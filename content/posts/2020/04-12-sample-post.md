@@ -1,5 +1,5 @@
 ---
-title: Sample post
+title: Hello World
 description: Post description that will be visible in HTML meta description.
 date: 2020-04-12
 tags:
